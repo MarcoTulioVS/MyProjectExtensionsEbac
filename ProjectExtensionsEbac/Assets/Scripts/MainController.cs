@@ -19,6 +19,13 @@ public class MainController : MonoBehaviour
     {
         
     }
+#if UNITY_EDITOR
 
-    
+    [UnityEditor.MenuItem("Message/New message &m")]
+    public static void ShowMessage()
+    {
+        Debug.Log("I'm pac man!");
+    }
+
+#endif   
 }
