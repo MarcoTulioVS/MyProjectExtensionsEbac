@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: d01df61e0c80c7a49bc74cc9cdfc0a68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 537028142849367528
+    second: pac-classic_c-toy_0
+  - first:
+      213: -3633735486615038788
+    second: pac-classic_c-toy_1
+  - first:
+      213: 2706268653974082150
+    second: pac-classic_c-toy_2
+  - first:
+      213: 8773639559733182637
+    second: pac-classic_c-toy_3
+  - first:
+      213: 690823533577153448
+    second: pac-classic_c-toy_4
+  - first:
+      213: -7726592234183432004
+    second: pac-classic_c-toy_5
+  - first:
+      213: -825432204415930131
+    second: pac-classic_c-toy_6
+  - first:
+      213: 5032533305150011424
+    second: pac-classic_c-toy_7
+  - first:
+      213: -5429048015890878780
+    second: pac-classic_c-toy_8
+  - first:
+      213: 7921487176597329553
+    second: pac-classic_c-toy_9
+  - first:
+      213: -4844830798917220625
+    second: pac-classic_c-toy_10
+  - first:
+      213: -8338489991300682175
+    second: pac-classic_c-toy_11
+  - first:
+      213: 42745068280143042
+    second: pac-classic_c-toy_12
+  - first:
+      213: 8163975119972330102
+    second: pac-classic_c-toy_13
+  - first:
+      213: 1898772405494534427
+    second: pac-classic_c-toy_14
+  - first:
+      213: -1793355417716180618
+    second: pac-classic_c-toy_15
+  - first:
+      213: -2911854243107737778
+    second: pac-classic_c-toy_16
+  - first:
+      213: -2442482830967582729
+    second: pac-classic_c-toy_17
+  - first:
+      213: 3492274061455995189
+    second: pac-classic_c-toy_18
+  - first:
+      213: 4886845850226347483
+    second: pac-classic_c-toy_19
+  - first:
+      213: -5381810270804183610
+    second: pac-classic_c-toy_20
+  - first:
+      213: 443601590187197983
+    second: pac-classic_c-toy_21
+  - first:
+      213: 3363910125108407382
+    second: pac-classic_c-toy_22
+  - first:
+      213: -1909506559005813289
+    second: pac-classic_c-toy_23
+  - first:
+      213: -8896782438924880479
+    second: pac-classic_c-toy_24
+  - first:
+      213: -4079209122736020133
+    second: pac-classic_c-toy_25
+  - first:
+      213: 5193938537753428864
+    second: pac-classic_c-toy_26
+  - first:
+      213: 1272316357967173973
+    second: pac-classic_c-toy_27
+  - first:
+      213: 8325062171810191257
+    second: pac-classic_c-toy_28
+  - first:
+      213: -3108732818553054710
+    second: pac-classic_c-toy_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pac-classic_c-toy_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 864
+        width: 105
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed9ce82048e37700800000000000000
+      internalID: 537028142849367528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 864
+        width: 106
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb45498c3d0629dc0800000000000000
+      internalID: -3633735486615038788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 865
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66256ea90099e8520800000000000000
+      internalID: 2706268653974082150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 865
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da00631e1ba32c970800000000000000
+      internalID: 8773639559733182637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 858
+        width: 135
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aba859f75c469900800000000000000
+      internalID: 690823533577153448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 693
+        width: 105
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8643ddc41a5c490800000000000000
+      internalID: -7726592234183432004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 693
+        width: 105
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0fe9d88c97b84f0800000000000000
+      internalID: -825432204415930131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 694
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028f9c5a06627d540800000000000000
+      internalID: 5032533305150011424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 694
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cee848089528a4b0800000000000000
+      internalID: -5429048015890878780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 688
+        width: 127
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19655e50e96ceed60800000000000000
+      internalID: 7921487176597329553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 530
+        width: 105
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6caa1be04b3ccb0800000000000000
+      internalID: -4844830798917220625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 530
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e6f59388bb74c80800000000000000
+      internalID: -8338489991300682175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 530
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccdcb2c96cd79000800000000000000
+      internalID: 42745068280143042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 530
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ae315fd144c4170800000000000000
+      internalID: 8163975119972330102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_14
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 522
+        width: 128
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11d0d2517bc95a10800000000000000
+      internalID: 1898772405494534427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 359
+        width: 105
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679310bcfb8bc17e0800000000000000
+      internalID: -1793355417716180618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 359
+        width: 105
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f69d95ef30797d0800000000000000
+      internalID: -2911854243107737778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 359
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffcf2a5ece8a1ed0800000000000000
+      internalID: -2442482830967582729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 358
+        width: 105
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531356b81cc077030800000000000000
+      internalID: 3492274061455995189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_19
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 354
+        width: 139
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd45deb86091d340800000000000000
+      internalID: 4886845850226347483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 184
+        width: 105
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5fa20a218ff45b0800000000000000
+      internalID: -5381810270804183610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 184
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1608e4cb4df72600800000000000000
+      internalID: 443601590187197983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_22
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 184
+        width: 106
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c2d6f9f620fae20800000000000000
+      internalID: 3363910125108407382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_23
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 184
+        width: 106
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d51e2ec6e11085e0800000000000000
+      internalID: -1909506559005813289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_24
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 182
+        width: 139
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5f2fb4287488480800000000000000
+      internalID: -8896782438924880479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 105
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5569ca5aecb367c0800000000000000
+      internalID: -4079209122736020133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 10
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0834108d493941840800000000000000
+      internalID: 5193938537753428864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_27
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 10
+        width: 106
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5595d8e8cfc28a110800000000000000
+      internalID: 1272316357967173973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_28
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 10
+        width: 106
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997d9cbefef888370800000000000000
+      internalID: 8325062171810191257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-classic_c-toy_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 148
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0adb88e8ff8bd4d0800000000000000
+      internalID: -3108732818553054710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
